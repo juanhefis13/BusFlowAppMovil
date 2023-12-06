@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BusFlow" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Otros atributos de estilo -->
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="colorAccent">@color/alertButtonTextColor</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+    </style>
+
+    <style name="LoginButton">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+    </style>
+
+    <style name="RegisterButton">
+        <item name="android:backgroundTint">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.BusFlow" parent="Base.Theme.BusFlow" />
+
+    <style name="AppSpinner">
+        <item name="android:background">#FFF</item> <!-- Color de fondo negro -->
+        <item name="android:layout_margin">16dp</item> <!-- Márgenes de 16dp en todos los lados -->
+        <item name="android:padding">8dp</item> <!-- Relleno de 8dp en todos los lados -->
+    </style>
+
+    <style name="AppEditText">
+        <item name="android:background">#FFF</item> <!-- Color de fondo negro -->
+        <item name="android:layout_margin">16dp</item> <!-- Márgenes de 16dp en todos los lados -->
+        <item name="android:padding">8dp</item> <!-- Relleno de 8dp en todos los lados -->
+    </style>
+</resources>

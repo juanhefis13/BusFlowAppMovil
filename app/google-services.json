@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "273779950396",
+    "firebase_url": "https://busflow-781d9-default-rtdb.firebaseio.com",
+    "project_id": "busflow-781d9",
+    "storage_bucket": "busflow-781d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273779950396:android:05c0c9ac323006db575439",
+        "android_client_info": {
+          "package_name": "com.optic.BusFlow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zaDovfweaOjY6UaJm4JE0H3W9Y8Symc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

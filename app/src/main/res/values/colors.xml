@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color> <!-- Verde para representar un bus -->
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color> <!-- Amarillo para resaltar -->
+    <color name="buttonTextColor">#000</color> <!-- Blanco para el texto de los botones -->
+    <color name="my_custom_color">#FFFFFF</color>
+    <color name="my_white">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimaryTransparent">#E91E63</color>
+    <color name="iconColor">#FFFFFF</color>
+    <color name="alertButtonTextColor">#000000</color>
+    <color name="green">#2DE433 </color>
+    <color name="red">#F32121 </color>
+    <color name="tintColor">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="gray">#787878</color>
+    <!-- colors.xml -->
+    <color name="bottom_nav_selected">#71757F</color> <!-- Color para ítem seleccionado -->
+    <color name="bottom_nav_unselected">#000</color> <!-- Color para ítem no seleccionado -->
+
+    <color name="colorAplicar">#4CAF50</color> <!-- Verde -->
+
+    <!-- Color para el botón Cancelar -->
+    <color name="colorCancelar">#F44336</color>
+
+
+
+
+</resources>

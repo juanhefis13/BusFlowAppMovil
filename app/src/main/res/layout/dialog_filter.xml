@@ -1,0 +1,64 @@
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="301"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="302"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <!-- Añadir más CheckBox para las otras rutas -->
+    <CheckBox
+        android:id="@+id/checkBoxRuta3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quillota"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valparaiso"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Concon"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quintero"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Santiago"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRuta8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="La Calera"
+        android:buttonTint="@drawable/checkbox_selector" />
+
+</LinearLayout>

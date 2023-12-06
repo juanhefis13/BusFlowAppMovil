@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cuando el botón está presionado -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#E91E63" />
+            <corners android:radius="50dp" />
+            <stroke android:width="2dp" android:color="#000000" />
+        </shape>
+    </item>
+
+    <!-- Cuando el botón está enfocado (navegación con teclado o control) -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#E91E63" />
+            <corners android:radius="50dp" />
+            <stroke android:width="2dp" android:color="#000000" />
+        </shape>
+    </item>
+
+    <!-- Aspecto del botón en estado normal -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#000" />
+            <solid android:background="#000" />
+            <solid android:tint="#FFFFFF" />
+            <corners android:radius="50dp" />
+            <stroke android:width="2dp" android:color="#000000" />
+        </shape>
+    </item>
+</selector>
